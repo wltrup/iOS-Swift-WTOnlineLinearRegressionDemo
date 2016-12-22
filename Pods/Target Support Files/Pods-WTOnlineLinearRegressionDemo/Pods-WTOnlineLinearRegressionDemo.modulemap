@@ -1,0 +1,6 @@
+framework module Pods_WTOnlineLinearRegressionDemo {
+  umbrella header "Pods-WTOnlineLinearRegressionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

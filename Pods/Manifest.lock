@@ -1,0 +1,12 @@
+PODS:
+  - WTOnlineLinearRegression (1.0.2)
+
+DEPENDENCIES:
+  - WTOnlineLinearRegression
+
+SPEC CHECKSUMS:
+  WTOnlineLinearRegression: a175255b0bdccb2f64cbb19bce1374b6707f8125
+
+PODFILE CHECKSUM: 8c8d9e84f72cb5bd7db519a454987625e92c7aa5
+
+COCOAPODS: 1.2.0.beta.1

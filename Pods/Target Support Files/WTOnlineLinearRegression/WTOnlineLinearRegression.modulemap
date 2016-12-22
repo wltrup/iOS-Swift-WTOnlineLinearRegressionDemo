@@ -1,0 +1,6 @@
+framework module WTOnlineLinearRegression {
+  umbrella header "WTOnlineLinearRegression-umbrella.h"
+
+  export *
+  module * { export * }
+}
