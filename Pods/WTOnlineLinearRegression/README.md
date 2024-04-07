@@ -76,10 +76,6 @@ install it, simply add the following line to your Podfile:
 
 ```ruby pod "WTOnlineLinearRegression" ```
 
-## Author ##
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License ##
 
 **WTOnlineLinearRegression** is available under the MIT license. See the LICENSE file for

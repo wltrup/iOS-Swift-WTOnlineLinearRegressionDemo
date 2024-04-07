@@ -12,10 +12,6 @@ A demo app for my [WTOnlineLinearRegression](https://github.com/wltrup/Swift-WTO
 
 The regression line and the uncertainty area associated with it change as any of those actions takes place.
 
-## Author ##
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License ##
 
 **WTOnlineLinearRegressionDemo** is available under the MIT license. See the LICENSE file for
